@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Welcome to here [web](https://coffeeamir.netlify.app)
+☕ پروژه ویژه: انیمیشن قهوه سه‌بعدی با Next.js
+🔥 ۱۳ ویژگی خفن:
+✨ انیمیشن و تعامل:
+✅ فنجان قهوه سه‌بعدی با CSS خالص
+✅ انیمیشن جوشیدن واقعی با حباب‌های پویا
+✅ بخار قهوه طبیعی با حرکت آشوبناک
+✅ دسته فنجان ارگونومیک با هایلایت نوری
+✅ افکت‌های Hover حرفه‌ای
+🎯 UI/UX:
+✅ اسلایدر خودکار ۳ اسلایدی
+✅ تم شب و روز با انیمیشن نرم
+✅ فونت فارسی لوکس (لاله‌زار + وزیرمتن)
+✅ طراحی کاملاً Responsive
+⚡ عملکرد:
+✅ Static Export برای سرعت ماکزیمم
+✅ بهینه‌سازی تصاویر با WebP
+✅ TypeScript کامل و تایپ‌سیف
+✅ First Contentful Paint زیر ۱ ثانیه
 
-## Getting Started
+🎨 طراحی:
+✅ گرادیانت‌های حرفه‌ای
+✅ سایه‌های چندلایه
+✅ آیکون‌های SVG با انیمیشن
 
-First, run the development server:
+🚀 تکنولوژی‌ها:
+   ⚛️ Next.js  | ⚛️ React  | 📘 TypeScript
+   🎨 Tailwind CSS 4 | 🎬 Framer Motion | 🔤   next/font
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+💡 چرا خاصه؟
+• ترکیب هنر و تکنولوژی
+• توجه به جزئیات (از بخار تا دسته فنجان)
+• کد تمیز با TypeScript
+• تجربه کاربری عالی
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#NextJS #React #TypeScript #TailwindCSS #FramerMotion 
+#WebDevelopment #Frontend #UI #UX #Animation #Coffee
